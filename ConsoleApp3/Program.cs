@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ConsoleApp20
+namespace ConsoleApp3
 {
     /// <summary>
     /// Вывести в столбик 5 раз слово «Привет!» (циклы с условием)
